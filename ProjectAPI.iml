@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="cn.hutool.json" level="project" />
+    <orderEntry type="library" name="json-20220924" level="project" />
   </component>
 </module>
